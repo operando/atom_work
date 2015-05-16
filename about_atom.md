@@ -161,7 +161,6 @@ cmd + o - open
 control + shift + m - preview markdown
 
 
-
 ## Packages
 
 * Community Packages
@@ -179,6 +178,9 @@ control + shift + m - preview markdown
 * [autocomplete-snippets](https://atom.io/packages/autocomplete-snippets)
 * [git-plus](https://atom.io/packages/git-plus)
 * [atomatigit](https://atom.io/packages/atomatigit)
+* [atom-html-preview](https://atom.io/packages/atom-html-preview)
+* [script](https://atom.io/packages/script)
+* [react](https://atom.io/packages/react)
 
 ## Ohter
 
