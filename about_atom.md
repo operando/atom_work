@@ -14,6 +14,7 @@ OSS
 公式サイト
 
 パッケージ(https://atom.io/packages)
+
 テーマ(https://atom.io/themes)
 
 公式ブログ(http://blog.atom.io/)
@@ -116,16 +117,24 @@ Application: Open Your Stylesheet
 頻繁に利用されるコードブロックを 登録して自由に呼び出せるようにする機能
 
 スニペット挿入のトリガーとなる文字列 を入力してSnippets: Expan(tab)
-
 code
 
 [Snippets](https://atom.io/docs/latest/using-atom-snippets)
 
 
-## git
+## Github
 
+alt + g g - open Repository
 
+alt + g o - open current file
 
+alt + g b - oepn current file Blame
+
+alt + g h - oepn current file history
+
+alt + g c - copy current file link
+
+alt + g r - open current brunch diff default brunch
 
 ## Key Map
 
@@ -147,6 +156,7 @@ alt + shift + s - スニペット
 
 cmd + alt + cotrol + l - window reload
 
+cmd + o - open
 
 
 
@@ -166,6 +176,7 @@ cmd + alt + cotrol + l - window reload
 * [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)
 * [autocomplete-snippets](https://atom.io/packages/autocomplete-snippets)
 * [git-plus](https://atom.io/packages/git-plus)
+* [atomatigit](https://atom.io/packages/atomatigit)
 
 ## Ohter
 
