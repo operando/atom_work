@@ -146,7 +146,7 @@ cmd + shift + t - 直近に閉じたファイルを開く
 
 cmd + \ - tree viewの表示/非表示
 
-cotrol + 0 - tree viewとbufferのフォーカス切り替え
+control + 0 - tree viewとbufferのフォーカス切り替え
 
 cmd + alt + i - dev toolを開く
 
@@ -154,9 +154,11 @@ cmd + . - Key Binding Resolverを開く
 
 alt + shift + s - スニペット
 
-cmd + alt + cotrol + l - window reload
+cmd + alt + control + l - window reload
 
 cmd + o - open
+
+control + shift + m - preview markdown
 
 
 
