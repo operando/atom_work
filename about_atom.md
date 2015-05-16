@@ -134,7 +134,7 @@ alt + g h - oepn current file history
 
 alt + g c - copy current file link
 
-
+alt + g r - open current brunch diff default brunch
 
 ## Key Map
 
