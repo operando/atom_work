@@ -2,6 +2,7 @@
 
 Githubが作ってる
 
+[Atom Flight Manual](https://atom.io/docs/latest/)
 
 Atom の最大の特長を一言で表すと、Web 技術に よって作られたエディタだという
 
@@ -160,6 +161,11 @@ cmd + o - open
 
 control + shift + m - preview markdown
 
+cmd + shift + o - open project
+
+cmd + shift + t - 閉じたタブを再度開く
+
+control + g - jump
 
 ## Packages
 
@@ -181,6 +187,10 @@ control + shift + m - preview markdown
 * [atom-html-preview](https://atom.io/packages/atom-html-preview)
 * [script](https://atom.io/packages/script)
 * [react](https://atom.io/packages/react)
+* [project-manager](https://atom.io/packages/project-manager)
+* [regex-railroad-diagram](https://atom.io/Packages/regex-railroad-diagram)
+* [term2](https://atom.io/packages/term2)
+* [ask-stack](https://atom.io/packages/ask-stack)
 
 ## Ohter
 
