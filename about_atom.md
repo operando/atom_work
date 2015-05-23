@@ -1,5 +1,8 @@
 ## Atom
 
+
+
+
 Githubが作ってる
 
 [Atom Flight Manual](https://atom.io/docs/latest/)
