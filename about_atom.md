@@ -167,6 +167,8 @@ cmd + shift + t - 閉じたタブを再度開く
 
 control + g - jump
 
+cmd + k 印キー - 画面分割
+
 ## Packages
 
 * Community Packages
@@ -174,6 +176,11 @@ control + g - jump
 * Core Packages
  * Atom が標準で内蔵しているパッケージ
 
+### Packages Sync
+
+apm stars --install
+
+### 使ってる Packages List
 
 * [markdown-preview](https://atom.io/packages/markdown-preview)
 * [linter](https://atom.io/packages/linter)
@@ -191,6 +198,9 @@ control + g - jump
 * [regex-railroad-diagram](https://atom.io/Packages/regex-railroad-diagram)
 * [term2](https://atom.io/packages/term2)
 * [ask-stack](https://atom.io/packages/ask-stack)
+* [tag](https://atom.io/packages/tag)
+* [autoclose-html](https://atom.io/packages/autoclose-html)
+* [atom-color-highlight](https://atom.io/packages/atom-color-highlight)
 
 ## Ohter
 
